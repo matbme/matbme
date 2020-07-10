@@ -1,4 +1,4 @@
-## Welcome to my own little plain of Oblivion! 🪐
+## Welcome to my own little plane of Oblivion! 🪐
 
 My name is Mateus Begnini Melchiades and I am a developer and researcher in **Data Science** and **Artificial Intelligence** at iTT Chip, a semiconductor research institute at Unisinos University in São Leopoldo, Brazil. I am currently majoring at the same university in **Computer Science** and expect to graduate in 2023.
 
