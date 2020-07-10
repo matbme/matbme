@@ -7,7 +7,7 @@ I also develop apps for Apple platforms in my free time using **SwiftUI**; the c
 Some of my other passions in the area are: Biotechnology, Digital tools for learning, and Data statistics.
 
 ### Projects I helped at:
-- Brazilian Portuguese translator for Agenda app.
+- Brazilian Portuguese translator for [https://agenda.com](Agenda) app.
 
 ### Research papers I worked at:
 - Co-author of "FastIoT - A Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (publication pending)
