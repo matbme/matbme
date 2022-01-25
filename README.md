@@ -2,19 +2,19 @@
 
 My name is Mateus Begnini Melchiades and I am a developer and researcher in **Machine Learning** at Unisinos University in São Leopoldo, Brazil. I am currently majoring at the same university in **Computer Science** and expect to graduate in 2023. My field of study is centered towards NLP and Neural Networks for health and finance applications.
 
-When I'm not busy with school and/or work I usually ~~procastinate~~ create and contribute to open source projects mostly related to Linux and Neovim. The programming languages I usually work with are:
+When I'm not busy with school and/or work I usually ~~procastinate~~ create and contribute to open source projects mostly related to Linux and (Neo)vim. The programming languages I usually work with are:
 
-- Python (also Pandas, Numpy, TensorFlow, ...)
+- Python (also popular libraries like Pandas, Numpy, TensorFlow, ...)
 - C
 - Lua
 - Bash
-- Swift
+- Vala
+- Rust
 
 ### My creations
-- JABS.nvim: A minimal buffer switcher window for Neovim written in Lua.
-
-### Projects I helped at:
-- Brazilian Portuguese translator for [Agenda](https://agenda.com) app.
+- *JABS.nvim*: A minimal buffer switcher window for Neovim written in Lua.
+- *tree-sitter-vala*: A [tree-sitter](https://tree-sitter.github.io/tree-sitter/) implementation for the [Vala](https://wiki.gnome.org/Projects/Vala) programming language (**WIP**).
+- *Beedget*: A budget manager for Elementary OS (**WIP**).
 
 ### Research papers I worked at:
 - Co-author of "FastIoT - A Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (publication pending)
