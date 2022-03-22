@@ -13,7 +13,7 @@ When I'm not busy with school and/or work I usually ~~procastinate~~ create and 
 
 ### My creations
 - *JABS.nvim*: A minimal buffer switcher window for Neovim written in Lua.
-- *tree-sitter-vala*: A [tree-sitter](https://tree-sitter.github.io/tree-sitter/) implementation for the [Vala](https://wiki.gnome.org/Projects/Vala) programming language (**WIP**).
+- *tree-sitter-vala*: A [tree-sitter](https://tree-sitter.github.io/tree-sitter/) implementation for the [Vala](https://wiki.gnome.org/Projects/Vala) programming language.
 - *Beedget*: A budget manager for Elementary OS (**WIP**).
 
 ### Research papers I worked at:
