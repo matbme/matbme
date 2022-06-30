@@ -14,8 +14,8 @@ When I'm not busy with school and/or work I usually ~~procastinate~~ create and 
 ### My creations
 - *JABS.nvim*: A minimal buffer switcher window for Neovim written in Lua.
 - *tree-sitter-vala*: A [tree-sitter](https://tree-sitter.github.io/tree-sitter/) implementation for the [Vala](https://wiki.gnome.org/Projects/Vala) programming language.
-- *Beedget*: A budget manager for Elementary OS (**WIP**).
 
 ### Research papers I worked at:
 - Co-author of "FastIoT - A Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (publication pending)
 - Main author of "Anticipating faults by predicting non-linearity of environment variables with neural networks: a case study in semiconductor manufacturing" (accepted for presentation at LXAI @ ICML 2021)
+- Co-author of "MoStress: a Sequence Model for Stress Classification" in 2022 International Joint Conference on Neural Networks (IJCNN), Padova, Italy, 2022.
