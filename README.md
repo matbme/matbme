@@ -17,7 +17,7 @@ When I'm not busy with school and/or work I usually ~~procastinate~~ create and 
 - *tree-sitter-vala*: A [tree-sitter](https://tree-sitter.github.io/tree-sitter/) implementation for the [Vala](https://wiki.gnome.org/Projects/Vala) programming language.
 
 ### Larger projects I contribute to
-- [Vanilla OS]([url](https://vanillaos.org/)) contributor: I help develop and improve system applications like ABroot and Apx, as well as GNOME-related projects for better graphical integration with the OS.
+- [Vanilla OS](https://vanillaos.org) contributor: I help develop and improve system applications like ABroot and Apx, as well as GNOME-related projects for better graphical integration with the OS.
 
 ### Research papers I worked at:
 - Co-author of "FastIoT - A Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (publication pending)
