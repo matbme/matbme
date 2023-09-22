@@ -1,23 +1,28 @@
 ## Welcome to my own little plane of Oblivion! 🪐
 
-My name is Mateus Begnini Melchiades and I am a developer and researcher in **Machine Learning** at Unisinos University in São Leopoldo, Brazil. I am currently majoring at the same university in **Computer Science** and expect to graduate in 2023. My field of study is centered towards NLP and Neural Networks for health and finance applications.
+My name is Mateus Begnini Melchiades and I am a developer and researcher in **Machine Learning** at Unisinos University in São Leopoldo, Brazil. 
+My main field of study is centered around Option discovery in Reinforcement Learning, but I also work on projects related to NLP and Neural Networks.
+I have also earned a bachelor's degree in Computer Science from the same university, with an outstanding student award from the Brazilian Computing Society (SBC).
 
-When I'm not busy with school and/or work I usually ~~procastinate~~ create and contribute to open source projects mostly related to Linux and (Neo)vim. The programming languages I usually work with are:
+On my spare time, I use my programming skills to create and contribute to open-source projects mostly related to Linux.
+I spend most of this time improving [Vanilla OS](https://vanillaos.org), which I act as Contributors Leader.
 
-- Python (also popular libraries like Pandas, Numpy, PyTorch, ...)
+The programming languages I usually work with are (in order of familiarity):
+- Python (including popular libraries like Pandas, Numpy, PyTorch, ...)
+- Go
 - C
 - Lua
 - Bash
-- Vala
 - Rust
-- Go
+- Vala
 
 ### My creations
 - *JABS.nvim*: A minimal buffer switcher window for Neovim written in Lua.
 - *tree-sitter-vala*: A [tree-sitter](https://tree-sitter.github.io/tree-sitter/) implementation for the [Vala](https://wiki.gnome.org/Projects/Vala) programming language.
+- *Albius*: An installer backend focused on immutable Linux distributions, but suitable for all distros (part of Vanilla OS)  
 
 ### Larger projects I contribute to
-- [Vanilla OS](https://vanillaos.org) contributor: I help develop and improve system applications like ABroot and Apx, as well as GNOME-related projects for better graphical integration with the OS.
+- [Vanilla OS](https://vanillaos.org) Contributors Leader: I develop and improve system applications like ABroot and Apx, as well as GNOME-related projects for better integration with the OS. My role in the project also involves managing incoming contributions and making sure our applications work as expected.
 
 ### Research papers I worked at:
 - Co-author of "FastIoT - A Compression Model for Displaying a Huge Volume of IoT data in Web Environments" (publication pending)
