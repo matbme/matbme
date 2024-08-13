@@ -1,8 +1,9 @@
 ## Welcome to my own little plane of Oblivion! 🪐
 
-My name is Mateus Begnini Melchiades and I am a developer and researcher in **Machine Learning** at Unisinos University in São Leopoldo, Brazil. 
+My name is Mateus Begnini Melchiades and I am a Software Developer and Researcher in Machine Learning.
 My main field of study is centered around Option discovery in Reinforcement Learning, but I also work on projects related to NLP and Neural Networks.
-I have also earned a bachelor's degree in Computer Science from the same university, with an outstanding student award from the Brazilian Computing Society (SBC).
+I work as a Software Developer at SAP Labs Latin America, where I develop backend services related to Data Science.
+I also hold a bachelor's degree in Computer Science from the University of Vale do Rio dos Sinos (UNISINOS), with an outstanding student award from the Brazilian Computing Society (SBC).
 
 On my spare time, I use my programming skills to create and contribute to open-source projects mostly related to Linux.
 I spend most of this time improving [Vanilla OS](https://vanillaos.org), which I act as Contributors Leader.
